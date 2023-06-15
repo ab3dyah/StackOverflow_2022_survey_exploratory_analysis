@@ -1,0 +1,4 @@
+CSV file containing dataset from the 2022 stackoverflow developers survey.
+CSV file containing survey schema for additional insight and clarification of abbreviated columns in main dataset.
+Jupyter notebooks containing exploratory procedures used for the data analysis 
+A README file containig a brief summary of the project
